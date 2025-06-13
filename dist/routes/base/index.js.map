@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["Router"],"sources":["../../../src/routes/base/index.js"],"sourcesContent":["import Router from './router.activity.js';\n\nexport default Router"],"mappings":"AAAA,OAAOA,MAAM;AAEb,eAAeA,MAAM","ignoreList":[]}
