@@ -5,5 +5,6 @@ const router = express.Router({ mergeParams: true })
 
 router.get('/', root)
 router.get('/welcome', welcome)
+router.get('/test', welcome)
 
 export default router
